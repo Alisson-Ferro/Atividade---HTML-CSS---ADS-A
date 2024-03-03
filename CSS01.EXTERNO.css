@@ -1,0 +1,31 @@
+.quadradoRoxo {
+    background-color: #a200ff;
+    width: 700px;
+    height: 700px;
+}
+
+.quadradoAzul {
+    background-color: #00f7ff;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafoBranco {
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+.retanguloVerde{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(0, 255, 72);
+}
+
+.retanguloAmarelo{
+    width: 75vw;
+    height: 50%; 
+    background-color: rgb(255, 242, 0);
+}
